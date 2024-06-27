@@ -1,3 +1,6 @@
+
+![team_logo](https://github.com/ZJ-Lion/.github/assets/144119551/3f554fca-dd9b-4f61-91cb-ffa169563dd4)
+
 ##1.浙狮战队嵌入式github组织已基本搭建完毕
 设置了:自我介绍、仓库、讨论、项目、团队（未启用）、成员、配置几大选项##
 
